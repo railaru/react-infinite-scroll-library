@@ -1,7 +1,7 @@
 # React Infinite Scroll
 
 
-Done in response to: Code Challenge #16: Infinite Scroll Unsplash Gallery
+Done in response to Code Challenge #16: Infinite Scroll Unsplash Gallery
 https://scotch.io/bar-talk/code-challenge-16-infinite-scroll-unsplash-gallery
 
 
