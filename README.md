@@ -3,10 +3,10 @@ https://scotch.io/bar-talk/code-challenge-16-infinite-scroll-unsplash-gallery
 
 react-infinite-scroll
 
---install
+#install
 
--npm i
+##npm i
 
---run
+#run
 
--run dev
+##run dev
